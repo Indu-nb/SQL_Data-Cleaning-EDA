@@ -37,6 +37,3 @@ Ans. Generally 2021 had low layoffs. Oct'22 to Feb'23 had the highest continuous
 
 9. What are the top companies responsible for layoffs for each year in this period- using a CTE that has top 5 layoff contributor by year and rank?
 Ans. Uber (2020), Bytedance (2021), Meta (2022) and Google (2023) are the top contributors to layoff each year of the time period of data.
-
-
-11.
